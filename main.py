@@ -4,13 +4,13 @@ from utils import get_youtube_videos_with_prompt
 def main():
     # Page configuration
     st.set_page_config(
-        page_title="YouTube Video Info Fetcher",
+        page_title="YouTube Video Info Fetcher 🎬",
         page_icon="🎬",
         layout="centered", # Use a centered layout
         initial_sidebar_state="collapsed"
     )
 
-    st.title('YouTube Video Info Fetcher')
+    st.title('YouTube Video Info Fetcher 🎬')
 
     # Style the text input and button with some background color and padding
     st.markdown("""
