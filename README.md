@@ -1,6 +1,6 @@
 # YouTube Video Info Fetcher 🎬
 
-Welcome to the **YouTube Video Info Fetcher**! This web app, powered by Streamlit, allows users to find multiple YouTube videos based on a given prompt.
+Welcome to the **YouTube Video Info Fetcher!** This web app, developed using Streamlit, is a testament to the integration of advanced language model capabilities with web development. Utilizing the **"langchain"** library, the app leverages the power of Large Language Models (LLMs) to interpret and generate responses based on user input. A key feature is the integration of the **ZERO_SHOT_REACT_DESCRIPTION agent** and **langchain Youtube Tool**, which augments the LLM's capabilities, allowing it to produce even more nuanced and contextually relevant results.  Dive in to explore the convergence of LLMs, web development, and YouTube data retrieval!
 
 ![Demo Screenshot](Screenshot_1.png) 
 
